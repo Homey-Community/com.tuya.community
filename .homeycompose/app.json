@@ -1,0 +1,54 @@
+{
+    "id": "com.tuya.community",
+    "version": "1.0.0",
+    "compatibility": ">=5.0.0",
+    "sdk": 3,
+    "platforms": [
+        "local",
+        "cloud"
+    ],
+    "name": {
+        "en": "Tuya Community"
+    },
+    "description": {
+        "en": "Control your white label Zigbee devices made by Tuya"
+    },
+    "brandColor": "#ff4800",
+    "homepage": "https://pages.tuya.com/expo/contact_form",
+    "category": [
+        "climate"
+    ],
+    "tags": {
+        "en": "MOES"
+    },
+    "permissions": [],
+    "images": {
+        "small": "/assets/images/small.png",
+        "large": "/assets/images/large.png",
+        "xlarge": "/assets/images/xlarge.png"
+    },
+    "author": {
+        "name": "Thomas Happich",
+        "email": "nymus.ano@gmx.net"
+    },
+    "source": "https://github.com/Homey-Community/com.tuya.community",
+    "support": "https://github.com/Homey-Community/com.tuya.community/wiki",
+    "bugs": {
+        "url": "https://github.com/Homey-Community/com.tuya.community/labels/bug"
+    },
+    "contributors": {
+        "developers": [
+            {
+                "name": "Thomas Happich"
+            }
+        ],
+        "translators": []
+    },
+    "contributing": {
+        "donate": {
+            "paypal": {
+                "username": "habbo656"
+            }
+        }
+    }
+}
